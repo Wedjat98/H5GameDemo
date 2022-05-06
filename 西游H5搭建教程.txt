@@ -1,0 +1,77 @@
+
+要求系统 Centos7.2
+配置要求 2核 4G内存 宽带随意 建议5M
+
+安装宝塔
+yum install -y wget && wget -O install.sh http://download.bt.cn/install/install.sh && sh install.sh
+
+
+==========================================================================
+★进入宝塔安装软件
+选择左边一键安装
+Nginx 1.14
+mysql5.6
+phpMyAdmin 4.4
+php5.4
+==========================================================================
+★添加数据库
+
+宝塔 - 数据库 - root密码 修改密码为123456 其他不用动
+先手动创建一个web数据库，导入数据库文件web.sql
+
+然后 root命令
+
+mysql -u root -p123456
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'127.0.0.1' IDENTIFIED BY '123456' WITH GRANT OPTION;
+
+FLUSH   PRIVILEGES;
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY '123456' WITH GRANT OPTION;
+
+FLUSH   PRIVILEGES;
+
+quit
+==========================================================================
+★添加网站
+宝塔 - 网站 - 添加站点 输入IP根目录/www/wwwroot/h5
+==========================================================================
+★放行端口
+宝塔 - 安全 - 放行端口 - 添加1:65535
+==========================================================================
+★上传文件解压
+www.zip 根目录 解压
+
+给权限chmod -R 777 /root
+==========================================================================
+
+输入口令ldconfig
+输入口令yum install gcc* -y
+输入口令yum install libtocmalloc* -y
+==========================================================================
+★修改服务端  #不懂请看示范图文档#
+修改root/server/sh/的三个xml文件  
+configure_center.xml
+configure.xml
+configure_cross.xml
+
+修改game/index1.php  270行左右
+
+index里的区名  ip
+（改IP、数据库密码 默认123456）
+==========================================================================
+★关闭防火墙
+systemctl stop firewalld.service
+systemctl disable firewalld.service
+==========================================================================
+★启动游戏（请安顺序）
+cd /root/server/sh
+./gamectl.sh startall 
+
+
+==========================================================================
+http://ip/gm   帐号密码 admin  123456
+
+
+
+

@@ -1,0 +1,2197 @@
+create process id,machind_id:1073742848,temp_handle:0,id:1073742848
+create process id,machind_id:1073742848,temp_handle:1,id:1073742849
+create process id,machind_id:1073742848,temp_handle:2,id:1073742850
+create process id,machind_id:1073742848,temp_handle:3,id:1073742851
+create process id,machind_id:1073742848,temp_handle:4,id:1073742852
+acceptor host:183.2.247.135,port:10201
+create process id,machind_id:1073742848,temp_handle:5,id:1073742853
+create process id,machind_id:1073742848,temp_handle:6,id:1073742854
+create process id,machind_id:1073742848,temp_handle:7,id:1073742855
+create process id,machind_id:1073742848,temp_handle:8,id:1073742856
+create process id,machind_id:1073742848,temp_handle:9,id:1073742857
+create process id,machind_id:1073742848,temp_handle:10,id:1073742858
+create process id,machind_id:1073742848,temp_handle:11,id:1073742859
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_accept_socket)accept connect 16777218 183.2.247.135
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_accept_socket)accept connect 16777219 183.2.247.135
+create process id,machind_id:1073742848,temp_handle:12,id:1073742860
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_regist_router)connect to router 1057676 183.2.247.135:9998
+register name from center:center1:1083060237
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_connect_socket)router 1057676 connect 16777220
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_accept_socket)accept connect 16777221 183.2.247.135
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_accept_socket)accept connect 16777222 183.2.247.135
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_regist_router)connect to router 1056686 183.2.247.135:8112
+register name from center:cross1_8110:1082046478
+register name from center:war1_1:1082046480
+register name from center:world1_1:1082046481
+[m[2019-05-23 00:30:29] [INFO  ][router-1073742851](on_connect_socket)router 1056686 connect 16777223
+create process id,machind_id:1073742848,temp_handle:13,id:1073742861
+create process id,machind_id:1073742848,temp_handle:14,id:1073742862
+create process id,machind_id:1073742848,temp_handle:15,id:1073742863
+create process id,machind_id:1073742848,temp_handle:16,id:1073742864
+create process id,machind_id:1073742848,temp_handle:17,id:1073742865
+[m[2019-05-23 00:30:37] [.mysql:INFO-1073742861]mysql.lua-28: .mysql Start
+create process id,machind_id:1073742848,temp_handle:18,id:1073742866
+create process id,machind_id:1073742848,temp_handle:19,id:1073742867
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742862]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742863]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742864]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742865]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742866]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742867]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742863]mysql server auth sucess
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742866]mysql server auth sucess
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742865]mysql server auth sucess
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742867]mysql server auth sucess
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742862]mysql server auth sucess
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742864]mysql server auth sucess
+[m[2019-05-23 00:30:37] [.logic:INFO-1073742857]MysqlBlob.lua-224: Blob:CheckDB:: cur beforevs is 1
+create process id,machind_id:1073742848,temp_handle:20,id:1073742868
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742867]mysql server quit
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742866]mysql server quit
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742868]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742868]mysql server auth sucess
+[m[2019-05-23 00:30:37] [.logic:INFO-1073742857]MysqlBlob.lua-279: Blob:CheckUpdate:: cur version is 21
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742868]mysql server quit
+Blob:InitDBID:	global_mails	0
+Blob:InitDBID:	records	10
+Blob:InitDBID:	gmcmd	0
+Blob:InitDBID:	roles	1
+Blob:InitDBID:	items	190
+Blob:InitDBID:	pay	0
+Blob:InitDBID:	mails	55
+Blob:InitDBID: serverdbid, platdbid	0	17179869185
+[m[2019-05-23 00:30:37] [.logic:INFO-1073742857]CenterMgr.lua-12: CenterMgr:Init 183.2.247.135:9999
+[m[2019-05-23 00:30:37] [INFO  ][router-1073742851](on_connect_center)connect to center  183.2.247.135:9999
+[m[2019-05-23 00:30:37] [INFO  ][router-1073742851](on_connect_socket)center connect 16777231:1073742860
+[m[2019-05-23 00:30:37] [INFO  ][router-1073742851]on_connected_center on_connected_center:class_module/ModuleRouter.cpp:477:1048577
+Timer:SetServerTimer-------	2	1558539403
+Timer:SetServerTimer-------	2	1558539403
+NoticeCenter:Notice------	53
+[m[2019-05-23 00:30:37] [.logic:INFO-1073742857]logic.lua-31: .logic Start
+create process id,machind_id:1073742848,temp_handle:21,id:1073742869
+create process id,machind_id:1073742848,temp_handle:22,id:1073742870
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742869]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742870]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742870]mysql server auth sucess
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742869]mysql server auth sucess
+[m[2019-05-23 00:30:37] [.world:INFO-1073742858]MysqlBlob.lua-224: Blob:CheckDB:: cur beforevs is 0
+create process id,machind_id:1073742848,temp_handle:23,id:1073742871
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742870]mysql server quit
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742869]mysql server quit
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742871]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742871]mysql server auth sucess
+[m[2019-05-23 00:30:37] [.world:INFO-1073742858]MysqlBlob.lua-279: Blob:CheckUpdate:: cur version is 0
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742871]mysql server quit
+Blob:InitDBID:	auctions	0
+Blob:InitDBID: serverdbid, platdbid	0	17179869184
+ActivityMgr:AddActivity---------------	21	1
+ActivityMgr:AddActivity---------------	22	2
+ActivityMgr:AddActivity---------------	1	3
+ActivityUpgrade Open --------------------------	3
+ActivityMgr:AddActivity---------------	20	4
+ActivityMgr:AddActivity---------------	26	5
+ActivityMgr:AddActivity---------------	3	6
+ActivityMgr:AddActivity---------------	16	7
+ActivityMgr:AddActivity---------------	18	8
+ActivityMgr:AddActivity---------------	19	9
+ActivityMgr:AddActivity---------------	23	10
+ActivityMgr:AddActivity---------------	24	11
+ActivityMgr:AddActivity---------------	8	12
+ActivityMgr:AddActivity---------------	25	13
+ActivityMgr:AddActivity---------------	17	15
+ActivityMgr:AddActivity---------------	2	16
+ActivityMgr:AddActivity---------------	2	17
+ActivityMgr:AddActivity---------------	2	18
+ActivityMgr:AddActivity---------------	2	19
+ActivityMgr:AddActivity---------------	2	20
+ActivityMgr:AddActivity---------------	2	21
+ActivityMgr:AddActivity---------------	2	22
+ActivityMgr:AddActivity---------------	6	23
+ActivityMgr:AddActivity---------------	6	24
+ActivityMgr:AddActivity---------------	26	25
+ActivityMgr:AddActivity---------------	27	26
+ActivityMgr:AddActivity---------------	22	27
+ActivityMgr:AddActivity---------------	28	28
+ActivityMgr:AddActivity---------------	7	29
+[m[2019-05-23 00:30:37] [.world:INFO-1073742858]world.lua-33: .world Start
+create process id,machind_id:1073742848,temp_handle:24,id:1073742872
+create process id,machind_id:1073742848,temp_handle:25,id:1073742873
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742872]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742873]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742872]mysql server auth sucess
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742873]mysql server auth sucess
+[m[2019-05-23 00:30:37] [.war:INFO-1073742859]MysqlBlob.lua-224: Blob:CheckDB:: cur beforevs is 0
+create process id,machind_id:1073742848,temp_handle:26,id:1073742874
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742873]mysql server quit
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742872]mysql server quit
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742874]mysql server connected
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742874]mysql server auth sucess
+[m[2019-05-23 00:30:37] [.war:INFO-1073742859]MysqlBlob.lua-279: Blob:CheckUpdate:: cur version is 0
+[m[2019-05-23 00:30:37] [INFO  ][mysql-1073742874]mysql server quit
+Blob:InitDBID:	qualifying_player	0
+Blob:InitDBID: serverdbid, platdbid	0	17179869184
+shareid	--------------------------
+[m[2019-05-23 00:30:37] [.war:INFO-1073742859]war.lua-27: .war Start
+create process id,machind_id:1073742848,temp_handle:27,id:1073742875
+acceptor host:183.2.247.135,port:5201
+[m[2019-05-23 00:30:37] [.logic:INFO-1073742857]Timer.lua-50: Timer:DayTimer 2 2
+Timer:SetServerTimer-------	2	1558539403
+Timer:SetServerTimer-------	2	1558539403
+create process id,machind_id:1073742848,temp_handle:28,id:1073742876
+create process id,machind_id:1073742848,temp_handle:29,id:1073742877
+create process id,machind_id:1073742848,temp_handle:30,id:1073742878
+create process id,machind_id:1073742848,temp_handle:31,id:1073742879
+create process id,machind_id:1073742848,temp_handle:32,id:1073742880
+create process id,machind_id:1073742848,temp_handle:50,id:1073742898
+create process id,machind_id:1073742848,temp_handle:51,id:1073742899
+create process id,machind_id:1073742848,temp_handle:52,id:1073742900
+create process id,machind_id:1073742848,temp_handle:53,id:1073742901
+create process id,machind_id:1073742848,temp_handle:54,id:1073742902
+[m[2019-05-23 00:30:37] [.logic:INFO-1073742857]logic.lua-38: .logic Open
+[m[2019-05-23 00:30:43] [.logic:INFO-1073742857]CenterMgr.lua-58: CenterMgr:UpdateList
+[m[2019-05-23 00:30:43] [.logic:INFO-1073742857]lua_util.lua-84: table: 0x1bd0b580
+[m[2019-05-23 00:30:43] [.logic:INFO-1073742857]lua_util.lua-77: cross	table: 0x1d0e1d00
+[m[2019-05-23 00:30:43] [.logic:INFO-1073742857]lua_util.lua-77: 	8110	183.2.247.135:8111
+[m[2019-05-23 00:30:43] [.logic:INFO-1073742857]lua_util.lua-88: all value number: 2
+[m[2019-05-23 00:30:43] [INFO  ][router-1073742851](on_connect_center)connect to center  183.2.247.135:8111
+[m[2019-05-23 00:30:43] [INFO  ][router-1073742851](on_connect_socket)center connect 16777240:1073742860
+[m[2019-05-23 00:30:43] [INFO  ][router-1073742851]on_connected_center on_connected_center:class_module/ModuleRouter.cpp:477:1048577
+now player cache count	1
+---------我去-------:10
+cache player num:	1
+[m[2019-05-23 00:30:59] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large EnterGame 36383.303710938
+[m[2019-05-23 00:30:59] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.2
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+NoticeCenter:Notice------	87	大大
+[m[2019-05-23 00:30:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242017846
+[m[2019-05-23 00:31:00] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large cs_arena_info 5193.52734375
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.2
+cache player num:	1
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 5242017846
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 1 80650
+close socket in accepter
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2 11188
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 32 19920
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 9 5145600000
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 11 0
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 6400
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 26 156960
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-23 00:32:32] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+cache player num:	1
+[m[2019-05-23 00:32:38] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.2
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityUpgrade:UpdatePlayerLv----------------------	94
+ActivityUpgrade:UpdatePlayerLv----------------------	95
+[m[2019-05-23 00:36:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242020806
+ActivityUpgrade:UpdatePlayerLv----------------------	96
+ActivityUpgrade:UpdatePlayerLv----------------------	97
+ActivityUpgrade:UpdatePlayerLv----------------------	98
+ActivityUpgrade:UpdatePlayerLv----------------------	99
+[m[2019-05-23 00:37:00] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large cs_change_role_level 504.1142578125
+ActivityUpgrade:UpdatePlayerLv----------------------	100
+ActivityUpgrade:UpdatePlayerLv----------------------	101
+[m[2019-05-23 00:37:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242029926
+ActivityUpgrade:UpdatePlayerLv----------------------	102
+ActivityUpgrade:UpdatePlayerLv----------------------	103
+ActivityUpgrade:UpdatePlayerLv----------------------	104
+ActivityUpgrade:UpdatePlayerLv----------------------	105
+ActivityUpgrade:UpdatePlayerLv----------------------	106
+ActivityUpgrade:UpdatePlayerLv----------------------	107
+[m[2019-05-23 00:37:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242038806
+ActivityUpgrade:UpdatePlayerLv----------------------	108
+ActivityUpgrade:UpdatePlayerLv----------------------	109
+ActivityUpgrade:UpdatePlayerLv----------------------	110
+ActivityUpgrade:UpdatePlayerLv----------------------	111
+ActivityUpgrade:UpdatePlayerLv----------------------	112
+[m[2019-05-23 00:37:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242046206
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+shareid	--------------------------
+[m[2019-05-23 00:38:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242118206
+[m[2019-05-23 00:38:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242154206
+[m[2019-05-23 00:38:48] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:38:48] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+[m[2019-05-23 00:38:55] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:38:55] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+[m[2019-05-23 00:38:59] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:38:59] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+[m[2019-05-23 00:39:04] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:39:04] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+[m[2019-05-23 00:39:08] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:39:08] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+[m[2019-05-23 00:39:12] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:39:12] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+[m[2019-05-23 00:39:17] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:39:17] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+[m[2019-05-23 00:39:22] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:39:22] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+shareid	--------------------------
+[m[2019-05-23 00:39:26] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:39:26] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+shareid	--------------------------
+[m[2019-05-23 00:39:30] [.logic:INFO-1073742857]ActivityPlug.lua-67: ----------------------------777: 2
+[m[2019-05-23 00:39:30] [.world:INFO-1073742858]ActivityMgr.lua-278: ----------------------------8888: 22
+shareid	--------------------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:39:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5242678876
+EffectBase:DoActivatePart----------	1002
+[m[2019-05-23 00:39:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5243678876
+[m[2019-05-23 00:39:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5243682876
+[m[2019-05-23 00:40:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5244186876
+[m[2019-05-23 00:40:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5244219276
+NoticeCenter:Notice------	56
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityUpgrade:UpdatePlayerLv----------------------	113
+ActivityUpgrade:UpdatePlayerLv----------------------	114
+[m[2019-05-23 00:41:47] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large cs_change_role_level 128.001953125
+ActivityUpgrade:UpdatePlayerLv----------------------	115
+ActivityUpgrade:UpdatePlayerLv----------------------	116
+ActivityUpgrade:UpdatePlayerLv----------------------	117
+[m[2019-05-23 00:41:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5244226676
+[m[2019-05-23 00:41:57] [.logic:INFO-1073742857]TeamMgr.lua-11: -------------------------999: Quick
+shareid	--------------------------
+[m[2019-05-23 00:42:08] [.logic:INFO-1073742857]TeamMgr.lua-11: -------------------------999: Quick
+shareid	--------------------------
+[m[2019-05-23 00:42:16] [.logic:INFO-1073742857]TeamMgr.lua-11: -------------------------999: Fight
+[m[2019-05-23 00:43:03] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 4273
+[m[2019-05-23 00:43:03] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 9 1558543383
+[m[2019-05-23 00:43:03] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 4273
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:08] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 3755
+[m[2019-05-23 00:43:08] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 8 1558543383
+[m[2019-05-23 00:43:08] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 3755
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:13] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 3266
+[m[2019-05-23 00:43:13] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 7 1558543383
+[m[2019-05-23 00:43:13] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 3266
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:17] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 2744
+[m[2019-05-23 00:43:17] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 6 1558543383
+[m[2019-05-23 00:43:17] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 2744
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:22] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 2385
+[m[2019-05-23 00:43:22] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 5 1558543383
+[m[2019-05-23 00:43:22] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 2385
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:26] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 2056
+[m[2019-05-23 00:43:26] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 4 1558543383
+[m[2019-05-23 00:43:26] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 2056
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:31] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 1787
+[m[2019-05-23 00:43:31] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 3 1558543383
+[m[2019-05-23 00:43:31] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 1787
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:35] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 1506
+[m[2019-05-23 00:43:35] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 2 1558543383
+[m[2019-05-23 00:43:35] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 1506
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:40] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 1316
+[m[2019-05-23 00:43:40] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 1 1558543383
+[m[2019-05-23 00:43:40] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 1316
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:43:44] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 1129
+[m[2019-05-23 00:43:44] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 0 1558543383
+[m[2019-05-23 00:43:44] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 1129
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:02] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 975
+[m[2019-05-23 00:44:02] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 14 1558543383
+[m[2019-05-23 00:44:02] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 975
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:07] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 847
+[m[2019-05-23 00:44:07] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 13 1558543383
+[m[2019-05-23 00:44:07] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 847
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:12] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 723
+[m[2019-05-23 00:44:12] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 12 1558543383
+[m[2019-05-23 00:44:12] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 723
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:16] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 616
+[m[2019-05-23 00:44:16] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 11 1558543383
+[m[2019-05-23 00:44:16] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 616
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:20] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 516
+[m[2019-05-23 00:44:20] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 10 1558543383
+[m[2019-05-23 00:44:20] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 516
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:25] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 433
+[m[2019-05-23 00:44:25] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 9 1558543465
+[m[2019-05-23 00:44:25] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 433
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:29] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 368
+[m[2019-05-23 00:44:29] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 8 1558543465
+[m[2019-05-23 00:44:29] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 368
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:33] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 319
+[m[2019-05-23 00:44:33] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 7 1558543465
+[m[2019-05-23 00:44:33] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 319
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:38] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 270
+[m[2019-05-23 00:44:38] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 6 1558543465
+[m[2019-05-23 00:44:38] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 270
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:42] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 226
+[m[2019-05-23 00:44:42] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 5 1558543465
+[m[2019-05-23 00:44:42] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 226
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:46] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 192
+[m[2019-05-23 00:44:46] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 4 1558543465
+[m[2019-05-23 00:44:46] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 192
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:44:51] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 165
+[m[2019-05-23 00:44:51] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 3 1558543465
+[m[2019-05-23 00:44:51] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 165
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:00] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 141
+[m[2019-05-23 00:45:00] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 17 1558543465
+[m[2019-05-23 00:45:00] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 141
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:04] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 120
+[m[2019-05-23 00:45:04] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 16 1558543465
+[m[2019-05-23 00:45:04] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 120
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:08] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 103
+[m[2019-05-23 00:45:08] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 15 1558543465
+[m[2019-05-23 00:45:08] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 103
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:13] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 83
+[m[2019-05-23 00:45:13] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 14 1558543465
+[m[2019-05-23 00:45:13] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 83
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:17] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 69
+[m[2019-05-23 00:45:17] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 13 1558543465
+[m[2019-05-23 00:45:17] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 69
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:21] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 57
+[m[2019-05-23 00:45:21] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 12 1558543465
+[m[2019-05-23 00:45:21] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 57
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:25] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 47
+[m[2019-05-23 00:45:25] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 11 1558543465
+[m[2019-05-23 00:45:25] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 47
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:29] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 43
+[m[2019-05-23 00:45:29] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 10 1558543465
+[m[2019-05-23 00:45:29] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 43
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:33] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 39
+[m[2019-05-23 00:45:33] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 9 1558543533
+[m[2019-05-23 00:45:33] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 39
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:38] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 35
+[m[2019-05-23 00:45:38] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 8 1558543533
+[m[2019-05-23 00:45:38] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 35
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:42] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 31
+[m[2019-05-23 00:45:42] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 7 1558543533
+[m[2019-05-23 00:45:42] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 31
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:46] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 27
+[m[2019-05-23 00:45:46] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 6 1558543533
+[m[2019-05-23 00:45:46] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 27
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:50] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 23
+[m[2019-05-23 00:45:50] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 5 1558543533
+[m[2019-05-23 00:45:50] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 23
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:54] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 19
+[m[2019-05-23 00:45:54] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 4 1558543533
+[m[2019-05-23 00:45:54] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 19
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:45:59] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 15
+[m[2019-05-23 00:45:59] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 3 1558543533
+[m[2019-05-23 00:45:59] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 15
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:46:03] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 11
+[m[2019-05-23 00:46:03] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 2 1558543533
+[m[2019-05-23 00:46:03] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 11
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:46:07] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 7
+[m[2019-05-23 00:46:07] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 1 1558543533
+[m[2019-05-23 00:46:07] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 7
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:46:11] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 3
+[m[2019-05-23 00:46:11] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 0 1558543533
+[m[2019-05-23 00:46:11] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 3
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:46:29] [.logic:INFO-1073742857]ArenaPlug.lua-144: ArenaPlug:ArenaPK 1
+[m[2019-05-23 00:46:29] [.logic:INFO-1073742857]ArenaPlug.lua-75: ArenaPlug:CheckDelPKCount 4 1558543533
+NoticeCenter:Notice------	23	大大	挑战者
+[m[2019-05-23 00:46:29] [.logic:INFO-1073742857]ArenaPlug.lua-200: ArenaPlug:DoPKResult true 1
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:47:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5282626676
+[m[2019-05-23 00:47:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5314626676
+[m[2019-05-23 00:47:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5353026676
+[m[2019-05-23 00:47:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5385026676
+[m[2019-05-23 00:47:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5417026676
+[m[2019-05-23 00:47:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5455426676
+[m[2019-05-23 00:47:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5487426676
+[m[2019-05-23 00:47:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5519426676
+[m[2019-05-23 00:47:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5551426676
+[m[2019-05-23 00:47:34] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5589826676
+[m[2019-05-23 00:47:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5621826676
+[m[2019-05-23 00:47:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5653826676
+[m[2019-05-23 00:47:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5692226676
+[m[2019-05-23 00:47:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5724226676
+[m[2019-05-23 00:47:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5756226676
+[m[2019-05-23 00:47:40] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5794626676
+[m[2019-05-23 00:47:42] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5833026676
+[m[2019-05-23 00:47:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5865026676
+[m[2019-05-23 00:47:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5903426676
+[m[2019-05-23 00:47:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5941826676
+[m[2019-05-23 00:47:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 5980226676
+[m[2019-05-23 00:47:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6012226676
+[m[2019-05-23 00:47:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6044226676
+[m[2019-05-23 00:47:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6082626676
+[m[2019-05-23 00:47:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6121026676
+[m[2019-05-23 00:47:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6153026676
+[m[2019-05-23 00:47:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6191426676
+[m[2019-05-23 00:47:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6223426676
+[m[2019-05-23 00:47:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6255426676
+[m[2019-05-23 00:47:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6287426676
+[m[2019-05-23 00:47:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6319426676
+[m[2019-05-23 00:47:58] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6351426676
+[m[2019-05-23 00:47:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6383426676
+[m[2019-05-23 00:48:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6415426676
+[m[2019-05-23 00:48:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6447426676
+[m[2019-05-23 00:48:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6485826676
+[m[2019-05-23 00:48:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6524226676
+[m[2019-05-23 00:48:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6556226676
+[m[2019-05-23 00:48:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6588226676
+[m[2019-05-23 00:48:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6620226676
+[m[2019-05-23 00:48:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6652226676
+[m[2019-05-23 00:48:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6690626676
+[m[2019-05-23 00:48:10] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6722626676
+[m[2019-05-23 00:48:11] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6761026676
+[m[2019-05-23 00:48:12] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6793026676
+[m[2019-05-23 00:48:13] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6825026676
+[m[2019-05-23 00:48:14] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6857026676
+[m[2019-05-23 00:48:15] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6895426676
+[m[2019-05-23 00:48:16] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6927426676
+[m[2019-05-23 00:48:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6959426676
+[m[2019-05-23 00:48:18] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 6991426676
+[m[2019-05-23 00:48:19] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7023426676
+[m[2019-05-23 00:48:20] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7061826676
+[m[2019-05-23 00:48:21] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7093826676
+[m[2019-05-23 00:48:22] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7132226676
+[m[2019-05-23 00:48:23] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7164226676
+[m[2019-05-23 00:48:24] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7196226676
+[m[2019-05-23 00:48:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7234626676
+[m[2019-05-23 00:48:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7266626676
+[m[2019-05-23 00:48:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7298626676
+[m[2019-05-23 00:48:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7330626676
+[m[2019-05-23 00:48:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7362626676
+[m[2019-05-23 00:48:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7394626676
+[m[2019-05-23 00:48:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7426626676
+[m[2019-05-23 00:48:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7458626676
+[m[2019-05-23 00:48:34] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7497026676
+[m[2019-05-23 00:48:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7529026676
+[m[2019-05-23 00:48:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561026676
+NoticeCenter:Notice------	55
+[m[2019-05-23 00:51:56] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large cs_fuben_join 11831.747070312
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityUpgrade:UpdatePlayerLv----------------------	118
+ActivityUpgrade:UpdatePlayerLv----------------------	119
+[m[2019-05-23 00:52:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561029636
+ActivityUpgrade:UpdatePlayerLv----------------------	120
+ActivityUpgrade:UpdatePlayerLv----------------------	121
+[m[2019-05-23 00:52:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561032596
+fight is win. regist refresh and record info
+fight is win. regist refresh and record info
+fight is win. regist refresh and record info
+fight is win. regist refresh and record info
+fight is win. regist refresh and record info
+[m[2019-05-23 00:56:05] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large cs_bag_smelt 832.3076171875
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:56:18] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561474760
+[m[2019-05-23 00:56:45] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004080 龙泉剑
+[m[2019-05-23 00:56:45] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004084 龙泉项链
+[m[2019-05-23 00:56:46] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004100 黄金剑
+[m[2019-05-23 00:56:46] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004120 游龙剑
+[m[2019-05-23 00:56:46] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004124 游龙项链
+[m[2019-05-23 00:56:46] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004140 七星剑
+[m[2019-05-23 00:56:46] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004144 七星项链
+[m[2019-05-23 00:56:47] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004118 黄金鞋子
+[m[2019-05-23 00:56:47] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004116 黄金裤子
+[m[2019-05-23 00:56:47] [.logic:INFO-1073742857]Bag.lua-553: LOG:: Bag:SmeltEquip 大大 1004114 黄金戒指
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:57:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561551560
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:57:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561589960
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:57:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561705160
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 00:57:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561857680
+[m[2019-05-23 00:57:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561857680
+[m[2019-05-23 00:58:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7561857680
+LuckConfigList===	table: 0x198da140	0
+LuckPlug:Draw---	17179869185	1	3	50	1
+shareid	--------------------------
+LuckConfigList===	table: 0x198da140	1
+LuckPlug:Draw---	17179869185	1	3	100	1
+LuckConfigList===	table: 0x198da140	2
+LuckPlug:Draw---	17179869185	1	3	150	1
+shareid	--------------------------
+cache player num:	1
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.2
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 7561857680
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 9 7462400000
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 11 0
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+close socket in accepter
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-23 00:59:24] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	58
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	56
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	57
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	58
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	55
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	58
+[m[2019-05-23 03:56:20] [.logic:INFO-1073742857]LoginCheck.lua-116: >>> new player regist 123456 123456 debug 14.205.8.93
+now player cache count	2
+[m[2019-05-23 03:57:48] [.logic:INFO-1073742857]Player.lua-47: Player:Create:: new player regist 17179869186 123456 小腰 14.205.8.93
+[m[2019-05-23 03:57:48] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large CreateActor 174.54296875
+cache player num:	2
+[m[2019-05-23 03:57:48] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 123456 17179869186 小腰 14.205.8.93
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:57:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 20800
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:57:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 34720
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:57:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 36300
+ActivityUpgrade:UpdatePlayerLv----------------------	2
+[m[2019-05-23 03:57:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 37780
+[m[2019-05-23 03:58:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 37780
+ActivityUpgrade:UpdatePlayerLv----------------------	3
+[m[2019-05-23 03:58:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 39260
+ActivityArenaTarget:DoTarget-------------
+ActivityUpgrade:UpdatePlayerLv----------------------	4
+[m[2019-05-23 03:58:13] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 40740
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:58:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 42364
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:58:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 43764
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:58:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 45096
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:58:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 46516
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 03:58:34] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 46796
+[m[2019-05-23 03:58:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 48750
+[m[2019-05-23 03:58:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 50704
+ActivityUpgrade:UpdatePlayerLv----------------------	5
+[m[2019-05-23 03:59:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 52184
+[m[2019-05-23 03:59:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 52184
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 04:00:23] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 85908
+[m[2019-05-23 04:00:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869186 85908
+NoticeCenter:Notice------	56
+cache player num:	2
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 123456 17179869186 小腰 14.205.8.93
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869186
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 小腰 17179869186 85908
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 8 17828
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 1 24116
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 26 26720
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2 11188
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 3 6056
+[m[2019-05-23 04:00:40] [.logic:INFO-1073742857]Player.lua-570: power-- 11 0
+close socket in accepter
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	56
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	56
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	53
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	53
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	58
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	58
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	54
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	57
+ContestBossBase:CheckOpen-------------
+NoticeCenter:Notice------	65
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-23 08:02:00] [.war:INFO-1073742859]ContestBossBase.lua-113: ================ ContestBossBase:Open
+NoticeCenter:Notice------	60
+[m[2019-05-23 08:04:00] [.war:INFO-1073742859]ContestBossBase.lua-128: ================ ContestBossBase:BossEnter
+NoticeCenter:Notice------	56
+[m[2019-05-23 08:12:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+[m[2019-05-23 08:26:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	58
+[m[2019-05-23 08:41:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+[m[2019-05-23 08:55:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-23 09:09:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	57
+[m[2019-05-23 09:24:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-23 09:38:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	55
+---------我去-------:11
+cache player num:	2
+[m[2019-05-23 09:49:47] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.21
+[m[2019-05-23 09:49:47] [.logic:INFO-1073742857]ArenaPlug.lua-46: ArenaPlug:RevertPKCount 8 1558572333
+NoticeCenter:Notice------	87	大大
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+NoticeCenter:Notice------	53
+[m[2019-05-23 09:50:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7600257680
+[m[2019-05-23 09:50:50] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7638657680
+[m[2019-05-23 09:50:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7670657680
+[m[2019-05-23 09:50:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7702657680
+[m[2019-05-23 09:50:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7741057680
+[m[2019-05-23 09:50:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7773057680
+[m[2019-05-23 09:50:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7811457680
+[m[2019-05-23 09:50:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7843457680
+[m[2019-05-23 09:50:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7875457680
+[m[2019-05-23 09:50:58] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7907457680
+[m[2019-05-23 09:50:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7945857680
+[m[2019-05-23 09:51:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 7977857680
+[m[2019-05-23 09:51:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8009857680
+[m[2019-05-23 09:51:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8041857680
+[m[2019-05-23 09:51:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8080257680
+[m[2019-05-23 09:51:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8112257680
+[m[2019-05-23 09:51:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8144257680
+[m[2019-05-23 09:51:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8176257680
+[m[2019-05-23 09:51:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8208257680
+[m[2019-05-23 09:51:09] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8240257680
+[m[2019-05-23 09:51:10] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8278657680
+[m[2019-05-23 09:51:11] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8310657680
+[m[2019-05-23 09:51:12] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8349057680
+[m[2019-05-23 09:51:13] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8381057680
+[m[2019-05-23 09:51:14] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8413057680
+[m[2019-05-23 09:51:15] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8451457680
+[m[2019-05-23 09:51:16] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8483457680
+[m[2019-05-23 09:51:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8515457680
+[m[2019-05-23 09:51:18] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8553857680
+[m[2019-05-23 09:51:19] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8585857680
+[m[2019-05-23 09:51:20] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8617857680
+[m[2019-05-23 09:51:21] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8649857680
+[m[2019-05-23 09:51:22] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8688257680
+[m[2019-05-23 09:51:24] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8720257680
+[m[2019-05-23 09:51:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8758657680
+[m[2019-05-23 09:51:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8790657680
+[m[2019-05-23 09:51:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8829057680
+[m[2019-05-23 09:51:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8861057680
+[m[2019-05-23 09:51:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8893057680
+[m[2019-05-23 09:51:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8925057680
+[m[2019-05-23 09:51:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8963457680
+[m[2019-05-23 09:51:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 8995457680
+[m[2019-05-23 09:51:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9027457680
+[m[2019-05-23 09:51:34] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9059457680
+[m[2019-05-23 09:51:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9091457680
+[m[2019-05-23 09:51:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9123457680
+[m[2019-05-23 09:51:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9155457680
+[m[2019-05-23 09:51:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9193857680
+[m[2019-05-23 09:51:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9232257680
+[m[2019-05-23 09:51:41] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9270657680
+[m[2019-05-23 09:51:42] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9302657680
+[m[2019-05-23 09:51:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9334657680
+[m[2019-05-23 09:51:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9373057680
+[m[2019-05-23 09:51:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9411457680
+[m[2019-05-23 09:51:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9449857680
+[m[2019-05-23 09:51:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9481857680
+[m[2019-05-23 09:51:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9520257680
+[m[2019-05-23 09:51:50] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9552257680
+[m[2019-05-23 09:51:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9584257680
+[m[2019-05-23 09:51:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9616257680
+[m[2019-05-23 09:51:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9648257680
+[m[2019-05-23 09:51:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9680257680
+[m[2019-05-23 09:51:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9712257680
+[m[2019-05-23 09:51:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9744257680
+[m[2019-05-23 09:51:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9782657680
+[m[2019-05-23 09:51:58] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9814657680
+[m[2019-05-23 09:51:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9846657680
+[m[2019-05-23 09:52:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9878657680
+[m[2019-05-23 09:52:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9910657680
+[m[2019-05-23 09:52:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9942657680
+[m[2019-05-23 09:52:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 9981057680
+[m[2019-05-23 09:52:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10013057680
+[m[2019-05-23 09:52:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10051457680
+[m[2019-05-23 09:52:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10083457680
+[m[2019-05-23 09:52:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10115457680
+[m[2019-05-23 09:52:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10153857680
+[m[2019-05-23 09:52:09] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10192257680
+[m[2019-05-23 09:52:11] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10230657680
+[m[2019-05-23 09:52:12] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10269057680
+[m[2019-05-23 09:52:13] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10301057680
+[m[2019-05-23 09:52:14] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10333057680
+[m[2019-05-23 09:52:15] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10371457680
+[m[2019-05-23 09:52:16] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10403457680
+[m[2019-05-23 09:52:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10435457680
+[m[2019-05-23 09:52:18] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10467457680
+[m[2019-05-23 09:52:19] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10505857680
+[m[2019-05-23 09:52:20] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10537857680
+[m[2019-05-23 09:52:21] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10569857680
+[m[2019-05-23 09:52:22] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10608257680
+[m[2019-05-23 09:52:24] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10640257680
+[m[2019-05-23 09:52:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10672257680
+[m[2019-05-23 09:52:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10710657680
+[m[2019-05-23 09:52:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10749057680
+[m[2019-05-23 09:52:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10787457680
+[m[2019-05-23 09:52:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10825857680
+[m[2019-05-23 09:52:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10857857680
+[m[2019-05-23 09:52:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10896257680
+[m[2019-05-23 09:52:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10928257680
+[m[2019-05-23 09:52:34] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 10966657680
+[m[2019-05-23 09:52:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11005057680
+[m[2019-05-23 09:52:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11037057680
+[m[2019-05-23 09:52:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11069057680
+[m[2019-05-23 09:52:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11101057680
+[m[2019-05-23 09:52:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11133057680
+[m[2019-05-23 09:52:40] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11171457680
+[m[2019-05-23 09:52:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+[m[2019-05-23 09:52:41] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11203457680
+[m[2019-05-23 09:52:42] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11241857680
+[m[2019-05-23 09:52:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11273857680
+[m[2019-05-23 09:52:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11312257680
+[m[2019-05-23 09:52:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11344257680
+[m[2019-05-23 09:52:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11376257680
+[m[2019-05-23 09:52:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11408257680
+[m[2019-05-23 09:52:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11440257680
+[m[2019-05-23 09:52:50] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11472257680
+[m[2019-05-23 09:52:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11504257680
+[m[2019-05-23 09:52:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11536257680
+[m[2019-05-23 09:52:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11568257680
+[m[2019-05-23 09:52:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11606657680
+[m[2019-05-23 09:52:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11645057680
+[m[2019-05-23 09:52:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11677057680
+[m[2019-05-23 09:52:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11715457680
+[m[2019-05-23 09:52:58] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11747457680
+[m[2019-05-23 09:52:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11779457680
+[m[2019-05-23 09:53:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11811457680
+[m[2019-05-23 09:53:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11843457680
+[m[2019-05-23 09:53:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11881857680
+[m[2019-05-23 09:53:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11920257680
+[m[2019-05-23 09:53:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11958657680
+[m[2019-05-23 09:53:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 11990657680
+[m[2019-05-23 09:53:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12029057680
+[m[2019-05-23 09:53:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12067457680
+[m[2019-05-23 09:53:09] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12099457680
+[m[2019-05-23 09:53:10] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12137857680
+[m[2019-05-23 09:53:11] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12169857680
+[m[2019-05-23 09:53:12] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12201857680
+[m[2019-05-23 09:53:13] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12240257680
+[m[2019-05-23 09:53:15] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12272257680
+[m[2019-05-23 09:53:16] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12310657680
+[m[2019-05-23 09:53:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12342657680
+[m[2019-05-23 09:53:18] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12381057680
+[m[2019-05-23 09:53:19] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12413057680
+[m[2019-05-23 09:53:20] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12451457680
+[m[2019-05-23 09:53:21] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12489857680
+[m[2019-05-23 09:53:22] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12528257680
+[m[2019-05-23 09:53:24] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12560257680
+[m[2019-05-23 09:53:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12592257680
+[m[2019-05-23 09:53:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12630657680
+[m[2019-05-23 09:53:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12662657680
+[m[2019-05-23 09:53:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12694657680
+[m[2019-05-23 09:53:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12726657680
+[m[2019-05-23 09:53:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12765057680
+[m[2019-05-23 09:53:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12803457680
+[m[2019-05-23 09:53:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12835457680
+[m[2019-05-23 09:53:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12861057680
+close socket in accepter
+cache player num:	2
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.21
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 12861057680
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 9 12761600000
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 11 0
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-23 09:57:27] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+---------我去-------:11
+cache player num:	2
+[m[2019-05-23 10:04:16] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.21
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+NoticeCenter:Notice------	87	大大
+[m[2019-05-23 10:04:34] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12899457680
+[m[2019-05-23 10:04:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12937857680
+[m[2019-05-23 10:04:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 12976257680
+[m[2019-05-23 10:04:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13008257680
+[m[2019-05-23 10:04:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13046657680
+[m[2019-05-23 10:04:40] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13085057680
+[m[2019-05-23 10:04:41] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13117057680
+[m[2019-05-23 10:04:42] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13155457680
+[m[2019-05-23 10:04:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13193857680
+[m[2019-05-23 10:04:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13232257680
+[m[2019-05-23 10:04:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13270657680
+[m[2019-05-23 10:04:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13302657680
+[m[2019-05-23 10:04:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13334657680
+[m[2019-05-23 10:04:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13373057680
+[m[2019-05-23 10:04:50] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13411457680
+[m[2019-05-23 10:04:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13443457680
+[m[2019-05-23 10:04:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13481857680
+[m[2019-05-23 10:04:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13520257680
+[m[2019-05-23 10:04:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13552257680
+[m[2019-05-23 10:04:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13584257680
+[m[2019-05-23 10:04:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13616257680
+[m[2019-05-23 10:04:58] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13654657680
+[m[2019-05-23 10:04:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13686657680
+[m[2019-05-23 10:05:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13725057680
+[m[2019-05-23 10:05:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13757057680
+[m[2019-05-23 10:05:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13789057680
+[m[2019-05-23 10:05:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13821057680
+[m[2019-05-23 10:05:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13859457680
+[m[2019-05-23 10:05:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13891457680
+[m[2019-05-23 10:05:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13929857680
+[m[2019-05-23 10:05:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 13968257680
+[m[2019-05-23 10:05:09] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14006657680
+[m[2019-05-23 10:05:10] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14038657680
+[m[2019-05-23 10:05:11] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14070657680
+[m[2019-05-23 10:05:12] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14102657680
+[m[2019-05-23 10:05:13] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14134657680
+[m[2019-05-23 10:05:14] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14166657680
+[m[2019-05-23 10:05:15] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14205057680
+[m[2019-05-23 10:05:16] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14243457680
+[m[2019-05-23 10:05:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14281857680
+[m[2019-05-23 10:05:19] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14313857680
+[m[2019-05-23 10:05:20] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14345857680
+[m[2019-05-23 10:05:21] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14384257680
+[m[2019-05-23 10:05:22] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14416257680
+[m[2019-05-23 10:05:23] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14448257680
+[m[2019-05-23 10:05:24] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14486657680
+[m[2019-05-23 10:05:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14525057680
+[m[2019-05-23 10:05:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14557057680
+[m[2019-05-23 10:05:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14589057680
+[m[2019-05-23 10:05:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14621057680
+[m[2019-05-23 10:05:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14653057680
+[m[2019-05-23 10:05:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14685057680
+[m[2019-05-23 10:05:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14723457680
+[m[2019-05-23 10:05:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14755457680
+[m[2019-05-23 10:05:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14793857680
+[m[2019-05-23 10:05:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14825857680
+[m[2019-05-23 10:05:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14864257680
+[m[2019-05-23 10:05:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14902657680
+[m[2019-05-23 10:05:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14941057680
+[m[2019-05-23 10:05:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 14973057680
+[m[2019-05-23 10:05:40] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15011457680
+[m[2019-05-23 10:05:41] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15043457680
+[m[2019-05-23 10:05:42] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15075457680
+[m[2019-05-23 10:05:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15113857680
+[m[2019-05-23 10:05:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15145857680
+[m[2019-05-23 10:05:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15177857680
+[m[2019-05-23 10:05:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15190657680
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 10:07:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+[m[2019-05-23 10:07:51] [.logic:INFO-1073742857]LoginCheck.lua-116: >>> new player regist 5205200 5205200 debug 27.38.17.21
+close socket in accepter
+NoticeCenter:Notice------	55
+close socket in accepter
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.21
+cache player num:	2
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 15190657680
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 9 15091200000
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 11 0
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-23 10:12:12] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+cache player num:	2
+[m[2019-05-23 10:13:01] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.21
+NoticeCenter:Notice------	87	大大
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+shareid	--------------------------
+Map:BroadcastPlayerEnter------
+Map:Enter------	1	100102	1	大大	497	796	17179869185
+[m[2019-05-23 10:14:02] [.war:INFO-1073742859]ContestBossBase.lua-683: ContestBossBase:FightResult:: boss hp <= 0 17179869185 true
+[m[2019-05-23 10:14:02] [.war:INFO-1073742859]ContestBossBase.lua-215: ================ ContestBossBase:BossDead 17179869185
+NoticeCenter:Notice------	62	大大
+shareid	--------------------------
+[m[2019-05-23 10:14:02] [.world:INFO-1073742858]AuctionCenter.lua-150: AuctionCenter:Shelf  1 0 2000214 17179869187 5 1558577642
+[m[2019-05-23 10:14:02] [.world:INFO-1073742858]AuctionCenter.lua-150: AuctionCenter:Shelf  2 0 2000214 17179869187 5 1558577642
+Map:BroadcastPlayerLeave------
+Map:Leave------	0	100102	1	17179869185
+[m[2019-05-23 10:15:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15190659628
+[m[2019-05-23 10:15:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15190667444
+[m[2019-05-23 10:15:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15190674200
+[m[2019-05-23 10:15:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15190680640
+NoticeCenter:Notice------	55
+close socket in accepter
+cache player num:	2
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.21
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 15190680640
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 9 15091200000
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 11 22960
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-23 10:21:55] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+shareid	--------------------------
+[m[2019-05-23 10:26:02] [.world:INFO-1073742858]AuctionCenter.lua-104: AuctionCenter:Timeout  1 2000214 5 0 系统 0  1558578362
+[m[2019-05-23 10:26:02] [.world:INFO-1073742858]AuctionCenter.lua-104: AuctionCenter:Timeout  2 2000214 5 0 系统 0  1558578362
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	58
+shareid	--------------------------
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	58
+GuildBoss:GenFbid----	1558577642	1558569840	1000101
+[m[2019-05-23 11:14:02] [.war:INFO-1073742859]ContestBossBase.lua-128: ================ ContestBossBase:BossEnter
+NoticeCenter:Notice------	53
+[m[2019-05-23 11:22:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-23 11:36:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	54
+[m[2019-05-23 11:51:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+[m[2019-05-23 12:05:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	22	虚位以待
+NoticeCenter:Notice------	54
+[m[2019-05-23 12:19:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	56
+[m[2019-05-23 12:34:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-23 12:48:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-23 13:02:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-23 13:17:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-23 13:31:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+[m[2019-05-23 13:32:39] [.logic:INFO-1073742857]LoginCheck.lua-116: >>> new player regist 584520 584520 debug 124.160.214.97
+now player cache count	3
+[m[2019-05-23 13:32:45] [.logic:INFO-1073742857]Player.lua-47: Player:Create:: new player regist 17179869188 584520 奚可邑 124.160.214.97
+[m[2019-05-23 13:32:45] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large CreateActor 183.2734375
+cache player num:	3
+[m[2019-05-23 13:32:45] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 584520 17179869188 奚可邑 124.160.214.97
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 13:32:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869188 20800
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 13:32:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869188 34720
+cache player num:	3
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 584520 17179869188 小白 124.160.214.97
+close socket in accepter
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]RaidMgr.lua-77: RaidMgr:Exit Invalid 17179869188
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 小白 17179869188 34720
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]Player.lua-570: power-- 8 13920
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]Player.lua-570: power-- 26 20800
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 13:33:10] [.logic:INFO-1073742857]Player.lua-570: power-- 11 0
+NoticeCenter:Notice------	56
+[m[2019-05-23 13:45:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+shareid	--------------------------
+[m[2019-05-23 14:00:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	53
+[m[2019-05-23 14:14:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+[m[2019-05-23 14:28:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	58
+[m[2019-05-23 14:43:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+[m[2019-05-23 14:57:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	54
+[m[2019-05-23 15:11:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	55
+[m[2019-05-23 15:26:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-23 15:40:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	53
+[m[2019-05-23 15:54:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-23 16:09:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	58
+[m[2019-05-23 16:23:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-23 16:37:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	54
+[m[2019-05-23 16:52:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+[m[2019-05-23 17:06:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	54
+[m[2019-05-23 17:20:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-23 17:35:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+[m[2019-05-23 17:49:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+[m[2019-05-23 18:03:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+[m[2019-05-23 18:18:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+[m[2019-05-23 18:32:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	55
+[m[2019-05-23 18:46:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	56
+[m[2019-05-23 19:01:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+[m[2019-05-23 19:15:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+[m[2019-05-23 19:29:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	55
+[m[2019-05-23 19:44:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-23 19:58:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+ClimbMgr:ServerInfo.............	0
+ClimbMgr:SetOpen------------	true
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	57
+[m[2019-05-23 20:12:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+ClimbMgr:SetOpen------------	false
+NoticeCenter:Notice------	57
+[m[2019-05-23 20:27:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	58
+[m[2019-05-23 20:41:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+---------我去-------:12
+cache player num:	3
+[m[2019-05-23 20:43:16] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.21
+[m[2019-05-23 20:43:16] [.logic:INFO-1073742857]ArenaPlug.lua-46: ArenaPlug:RevertPKCount 10 1558608333
+ActivityDayLogin:AddPlayer-----------	6
+ActivityArenaTarget:DoTarget-------------
+NoticeCenter:Notice------	87	大大
+[m[2019-05-23 20:43:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15209880640
+[m[2019-05-23 20:43:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15216280640
+[m[2019-05-23 20:43:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15235480640
+[m[2019-05-23 20:43:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15241880640
+[m[2019-05-23 20:43:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15257880640
+[m[2019-05-23 20:43:50] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15267480640
+[m[2019-05-23 20:43:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15283480640
+[m[2019-05-23 20:43:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15293080640
+[m[2019-05-23 20:44:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15331480640
+[m[2019-05-23 20:44:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15363480640
+[m[2019-05-23 20:44:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15389080640
+[m[2019-05-23 20:44:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15446680640
+[m[2019-05-23 20:44:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15453080640
+[m[2019-05-23 20:44:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15625880640
+[m[2019-05-23 20:44:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 15824280640
+[m[2019-05-23 20:44:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16022680640
+[m[2019-05-23 20:44:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16086680640
+[m[2019-05-23 20:44:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16118680640
+[m[2019-05-23 20:44:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16150680640
+[m[2019-05-23 20:44:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16182680640
+[m[2019-05-23 20:44:50] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16214680640
+[m[2019-05-23 20:44:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16246680640
+[m[2019-05-23 20:44:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16285080640
+[m[2019-05-23 20:44:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16317080640
+[m[2019-05-23 20:44:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16349080640
+[m[2019-05-23 20:44:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16381080640
+[m[2019-05-23 20:44:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16413080640
+[m[2019-05-23 20:44:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16451480640
+[m[2019-05-23 20:44:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16483480640
+[m[2019-05-23 20:45:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16515480640
+[m[2019-05-23 20:45:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16553880640
+[m[2019-05-23 20:45:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16592280640
+[m[2019-05-23 20:45:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16624280640
+[m[2019-05-23 20:45:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16656280640
+[m[2019-05-23 20:45:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16688280640
+[m[2019-05-23 20:45:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16726680640
+[m[2019-05-23 20:45:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16758680640
+[m[2019-05-23 20:45:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16790680640
+[m[2019-05-23 20:45:09] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16822680640
+[m[2019-05-23 20:45:10] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16861080640
+[m[2019-05-23 20:45:11] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16893080640
+[m[2019-05-23 20:45:12] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16931480640
+[m[2019-05-23 20:45:14] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16963480640
+[m[2019-05-23 20:45:15] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 16995480640
+[m[2019-05-23 20:45:16] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17033880640
+[m[2019-05-23 20:45:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17072280640
+[m[2019-05-23 20:45:18] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17110680640
+[m[2019-05-23 20:45:19] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17149080640
+[m[2019-05-23 20:45:20] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17181080640
+[m[2019-05-23 20:45:21] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17213080640
+[m[2019-05-23 20:45:22] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17245080640
+[m[2019-05-23 20:45:23] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17277080640
+[m[2019-05-23 20:45:24] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17315480640
+[m[2019-05-23 20:45:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17353880640
+[m[2019-05-23 20:45:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17385880640
+[m[2019-05-23 20:45:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17424280640
+[m[2019-05-23 20:45:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17456280640
+[m[2019-05-23 20:45:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17488280640
+[m[2019-05-23 20:45:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17526680640
+[m[2019-05-23 20:45:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17558680640
+[m[2019-05-23 20:45:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17590680640
+[m[2019-05-23 20:45:34] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17622680640
+[m[2019-05-23 20:45:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17654680640
+[m[2019-05-23 20:45:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17693080640
+[m[2019-05-23 20:45:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17725080640
+[m[2019-05-23 20:45:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17757080640
+[m[2019-05-23 20:45:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17795480640
+[m[2019-05-23 20:45:41] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17827480640
+[m[2019-05-23 20:45:42] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17859480640
+[m[2019-05-23 20:45:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17891480640
+[m[2019-05-23 20:45:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17923480640
+[m[2019-05-23 20:45:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17961880640
+[m[2019-05-23 20:45:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 17993880640
+[m[2019-05-23 20:45:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18025880640
+[m[2019-05-23 20:45:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18057880640
+[m[2019-05-23 20:45:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18096280640
+[m[2019-05-23 20:45:50] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18128280640
+[m[2019-05-23 20:45:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18160280640
+[m[2019-05-23 20:45:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18198680640
+[m[2019-05-23 20:45:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18230680640
+[m[2019-05-23 20:45:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18262680640
+[m[2019-05-23 20:45:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18301080640
+[m[2019-05-23 20:45:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18333080640
+[m[2019-05-23 20:45:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18371480640
+[m[2019-05-23 20:45:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18409880640
+[m[2019-05-23 20:46:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18441880640
+[m[2019-05-23 20:46:01] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18473880640
+[m[2019-05-23 20:46:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18512280640
+[m[2019-05-23 20:46:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18544280640
+[m[2019-05-23 20:46:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18576280640
+[m[2019-05-23 20:46:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18614680640
+[m[2019-05-23 20:46:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18646680640
+[m[2019-05-23 20:46:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18685080640
+[m[2019-05-23 20:46:08] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18717080640
+[m[2019-05-23 20:46:09] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18749080640
+[m[2019-05-23 20:46:10] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18781080640
+[m[2019-05-23 20:46:11] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18819480640
+[m[2019-05-23 20:46:13] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18857880640
+[m[2019-05-23 20:46:14] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18889880640
+[m[2019-05-23 20:46:15] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18921880640
+[m[2019-05-23 20:46:16] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18960280640
+[m[2019-05-23 20:46:17] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 18998680640
+[m[2019-05-23 20:46:18] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19030680640
+[m[2019-05-23 20:46:19] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19069080640
+[m[2019-05-23 20:46:20] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19101080640
+[m[2019-05-23 20:46:21] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19139480640
+[m[2019-05-23 20:46:23] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19171480640
+[m[2019-05-23 20:46:24] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19209880640
+[m[2019-05-23 20:46:25] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19248280640
+[m[2019-05-23 20:46:26] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19280280640
+[m[2019-05-23 20:46:27] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19312280640
+[m[2019-05-23 20:46:28] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19344280640
+[m[2019-05-23 20:46:29] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19376280640
+[m[2019-05-23 20:46:30] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19408280640
+[m[2019-05-23 20:46:31] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19446680640
+[m[2019-05-23 20:46:32] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19485080640
+[m[2019-05-23 20:46:33] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19523480640
+[m[2019-05-23 20:46:35] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19561880640
+[m[2019-05-23 20:46:36] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19593880640
+[m[2019-05-23 20:46:37] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19632280640
+[m[2019-05-23 20:46:38] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19664280640
+[m[2019-05-23 20:46:39] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19696280640
+[m[2019-05-23 20:46:40] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19728280640
+[m[2019-05-23 20:46:41] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19760280640
+[m[2019-05-23 20:46:42] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19792280640
+[m[2019-05-23 20:46:43] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19824280640
+[m[2019-05-23 20:46:44] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19856280640
+[m[2019-05-23 20:46:45] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19894680640
+[m[2019-05-23 20:46:46] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19926680640
+[m[2019-05-23 20:46:47] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19965080640
+[m[2019-05-23 20:46:48] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 19997080640
+[m[2019-05-23 20:46:49] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20035480640
+[m[2019-05-23 20:46:51] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20067480640
+[m[2019-05-23 20:46:52] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20105880640
+[m[2019-05-23 20:46:53] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20144280640
+[m[2019-05-23 20:46:54] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20176280640
+[m[2019-05-23 20:46:55] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20214680640
+[m[2019-05-23 20:46:56] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20253080640
+[m[2019-05-23 20:46:57] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20285080640
+[m[2019-05-23 20:46:58] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20317080640
+[m[2019-05-23 20:46:59] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20349080640
+[m[2019-05-23 20:47:00] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20387480640
+[m[2019-05-23 20:47:02] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20419480640
+[m[2019-05-23 20:47:03] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20451480640
+[m[2019-05-23 20:47:04] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20483480640
+[m[2019-05-23 20:47:05] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20515480640
+[m[2019-05-23 20:47:06] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20553880640
+[m[2019-05-23 20:47:07] [.logic:INFO-1073742857]Player.lua-547: Player:ReCalcPower 17179869185 20579480640
+NoticeCenter:Notice------	57
+[m[2019-05-23 20:55:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+ContestBossBase:CheckOpen-------------
+[m[2019-05-23 21:00:00] [.logic:INFO-1073742857]ArenaCenter.lua-190: ArenaCenter:RewardAllRank...
+[m[2019-05-23 21:00:00] [.war:INFO-1073742859]ContestBossBase.lua-113: ================ ContestBossBase:Open
+---------------------------跨服争霸
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-23 21:02:00] [.war:INFO-1073742859]ContestBossBase.lua-128: ================ ContestBossBase:BossEnter
+[m[2019-05-23 21:10:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+---------------------------跨服争霸
+NoticeCenter:Notice------	53
+close socket in accepter
+cache player num:	3
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.21
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 20579480640
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 9 20480000000
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 11 22960
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-23 21:21:40] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+[m[2019-05-23 21:22:00] [.war:INFO-1073742859]ContestBossBase.lua-172: ================ ContestBossBase:Close
+[m[2019-05-23 21:24:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-23 21:38:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	55
+[m[2019-05-23 21:53:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+[m[2019-05-23 22:07:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	53
+[m[2019-05-23 22:21:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-23 22:36:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-23 22:50:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+shareid	--------------------------
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+---------我去-------:12
+cache player num:	3
+[m[2019-05-23 23:03:30] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.21
+ActivityDayLogin:AddPlayer-----------	6
+NoticeCenter:Notice------	87	大大
+ActivityArenaTarget:DoTarget-------------
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.21
+cache player num:	3
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 20579480640
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 9 20480000000
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 11 22960
+close socket in accepter
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-23 23:03:49] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+[m[2019-05-23 23:04:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	55
+[m[2019-05-23 23:19:02] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-23 23:33:22] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+[m[2019-05-23 23:47:42] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	55
+[m[2019-05-23 23:58:00] [.logic:INFO-1073742857]AdvancedrCenter.lua-108: AdvancedrCenter:DoReward------ 2 3 7
+[m[2019-05-23 23:58:00] [.logic:INFO-1073742857]AdvancedrCenter.lua-110: AdvancedrReward---- 2 3 7 17179869185 1
+shareid	--------------------------
+[m[2019-05-24 00:00:05] [.logic:INFO-1073742857]Timer.lua-50: Timer:DayTimer 2 3
+Timer:SetServerTimer-------	3	1558539403
+Timer:SetServerTimer-------	3	1558539403
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+Timer:DayTimer------------------
+Timer:DayTimer------------------
+NoticeCenter:Notice------	55
+[m[2019-05-24 00:01:59] [.war:INFO-1073742859]ContestBossBase.lua-172: ================ ContestBossBase:Close
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	57
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	57
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	57
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	53
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	55
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	53
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	55
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	53
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	58
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	58
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	57
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	53
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	55
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	54
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	56
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	56
+ContestBossBase:CheckOpen-------------
+NoticeCenter:Notice------	65
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+[m[2019-05-24 08:02:00] [.war:INFO-1073742859]ContestBossBase.lua-113: ================ ContestBossBase:Open
+NoticeCenter:Notice------	60
+GuildBoss:GenFbid----	1558627319	1558581242	1000101
+[m[2019-05-24 08:04:00] [.war:INFO-1073742859]ContestBossBase.lua-128: ================ ContestBossBase:BossEnter
+NoticeCenter:Notice------	55
+[m[2019-05-24 08:12:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+[m[2019-05-24 08:26:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	55
+[m[2019-05-24 08:41:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+[m[2019-05-24 08:55:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-24 09:09:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	55
+[m[2019-05-24 09:24:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+[m[2019-05-24 09:38:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	54
+[m[2019-05-24 09:52:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-24 10:07:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	56
+[m[2019-05-24 10:21:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-24 10:35:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+[m[2019-05-24 10:50:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+shareid	--------------------------
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-24 11:04:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+---------我去-------:12
+cache player num:	3
+[m[2019-05-24 11:09:36] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large EnterGame 159.564453125
+[m[2019-05-24 11:09:36] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.16
+ActivityDayLogin:AddPlayer-----------	14
+ActivityArenaTarget:DoTarget-------------
+NoticeCenter:Notice------	87	大大
+[m[2019-05-24 11:09:37] [.logic:INFO-1073742857]ClientMsg.lua-112: Cost Mem Too Large cs_bag_smelt 180.9609375
+cache player num:	3
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.16
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 20579480640
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 9 20480000000
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 11 22960
+close socket in accepter
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-24 11:10:10] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+NoticeCenter:Notice------	53
+cache player num:	3
+[m[2019-05-24 11:10:38] [.logic:INFO-1073742857]Player.lua-167: Player:Login 1 999999 17179869185 大大 27.38.17.16
+ActivityDayLogin:AddPlayer-----------	14
+ActivityArenaTarget:DoTarget-------------
+cache player num:	3
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-309: Player:Logout 1 999999 17179869185 大大 27.38.17.16
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]RaidMgr.lua-91: RaidMgr:Exit Invalid 17179869185
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-560: Player:PrintPower---- 大大 17179869185 20579480640
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 1 1008000
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2 217592
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 3 5776
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 32 127920
+close socket in accepter
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 35 0
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 7 216000
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 8 94421736
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 9 20480000000
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 11 22960
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 12 4000
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 13 0
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 14 1000000
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 15 10800
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2801 296344
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2802 6400
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2803 542800
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2804 1278400
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2805 6400
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2806 6400
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2807 6400
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2808 6400
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2809 6236
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 26 198400
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 2812 66236
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 29 24000
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 21 1200
+[m[2019-05-24 11:16:32] [.logic:INFO-1073742857]Player.lua-570: power-- 31 240
+[m[2019-05-24 11:18:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	56
+[m[2019-05-24 11:33:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+[m[2019-05-24 11:47:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+[m[2019-05-24 12:01:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	22	虚位以待
+NoticeCenter:Notice------	57
+[m[2019-05-24 12:16:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+[m[2019-05-24 12:30:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	55
+[m[2019-05-24 12:44:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+[m[2019-05-24 12:59:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	56
+[m[2019-05-24 13:13:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+[m[2019-05-24 13:27:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	53
+[m[2019-05-24 13:42:00] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+[m[2019-05-24 13:56:20] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	56
+[m[2019-05-24 14:10:40] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+[m[2019-05-24 14:25:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-24 14:39:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	56
+[m[2019-05-24 14:53:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	57
+[m[2019-05-24 15:08:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+NoticeCenter:Notice------	58
+[m[2019-05-24 15:22:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-24 15:36:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+NoticeCenter:Notice------	54
+[m[2019-05-24 15:51:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-24 16:05:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+[m[2019-05-24 16:19:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+[m[2019-05-24 16:34:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-24 16:48:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-24 17:02:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+[m[2019-05-24 17:17:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+[m[2019-05-24 17:31:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	55
+[m[2019-05-24 17:45:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-24 18:00:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	54
+NoticeCenter:Notice------	54
+[m[2019-05-24 18:14:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-24 18:28:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	57
+[m[2019-05-24 18:43:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+[m[2019-05-24 18:57:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+NoticeCenter:Notice------	54
+[m[2019-05-24 19:11:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	54
+[m[2019-05-24 19:26:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	56
+[m[2019-05-24 19:40:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	57
+[m[2019-05-24 19:54:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+ClimbMgr:ServerInfo.............	1
+GuildMinewarMgr:Start----------------------
+NoticeCenter:Notice------	188
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+>>GuildwarMgr---------------------------Start
+NoticeCenter:Notice------	40
+NoticeCenter:Notice------	55
+[m[2019-05-24 20:09:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+GuildMinewarMgr:Shut----------------------
+NoticeCenter:Notice------	53
+[m[2019-05-24 20:23:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	42
+>>GuildwarMgr---------------------------Shut
+NoticeCenter:Notice------	57
+[m[2019-05-24 20:37:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+NoticeCenter:Notice------	54
+[m[2019-05-24 20:52:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+ContestBossBase:CheckOpen-------------
+NoticeCenter:Notice------	9
+[m[2019-05-24 21:00:00] [.logic:INFO-1073742857]ArenaCenter.lua-190: ArenaCenter:RewardAllRank...
+[m[2019-05-24 21:00:00] [.war:INFO-1073742859]ContestBossBase.lua-113: ================ ContestBossBase:Open
+NoticeCenter:Notice------	1
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	56
+[m[2019-05-24 21:02:00] [.war:INFO-1073742859]ContestBossBase.lua-128: ================ ContestBossBase:BossEnter
+[m[2019-05-24 21:06:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
+NoticeCenter:Notice------	57
+[m[2019-05-24 21:20:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+[m[2019-05-24 21:22:00] [.war:INFO-1073742859]ContestBossBase.lua-172: ================ ContestBossBase:Close
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	55
+[m[2019-05-24 21:35:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	53
+[m[2019-05-24 21:49:21] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	56
+shareid	--------------------------
+Timer:HalfHour------------------
+Timer:HalfHour------------------
+NoticeCenter:Notice------	53
+[m[2019-05-24 22:03:41] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	58
+[m[2019-05-24 22:18:01] [.war:INFO-1073742859]ContestBossBase.lua-359: ================ ContestBossBase:ShieldDec <= 0
+NoticeCenter:Notice------	66
+NoticeCenter:Notice------	57
